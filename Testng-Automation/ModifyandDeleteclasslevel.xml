@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="unit test cases">
+<test name="testcases">
+<classes>
+<class name="com.sgtesting.users.Users">
+<methods>
+<include name="createUser"></include>
+</methods>
+</class>
+<class name="com.sgtesting.products">
+<methods>
+<exclude name="modifyProduct"></exclude>
+<exclude name="deleteProduct"></exclude>
+</methods>
+</class>
+</classes>
+</test>
+</suite>

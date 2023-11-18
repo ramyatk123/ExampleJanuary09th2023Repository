@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-05T11:30:06 IST" name="Testcases" finished-at="2023-07-05T11:30:06 IST" duration-ms="57">
+    <groups>
+    </groups>
+    <test started-at="2023-07-05T11:30:06 IST" name="Users and product" finished-at="2023-07-05T11:30:06 IST" duration-ms="57">
+      <class name="com.sgtesting.users.Users">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sgtesting.users.Users@c333c60]" started-at="2023-07-05T11:30:06 IST" name="setUp" finished-at="2023-07-05T11:30:06 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createUser()[pri:0, instance:com.sgtesting.users.Users@c333c60]" started-at="2023-07-05T11:30:06 IST" name="createUser" finished-at="2023-07-05T11:30:06 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="deleteUser()[pri:0, instance:com.sgtesting.users.Users@c333c60]" started-at="2023-07-05T11:30:06 IST" name="deleteUser" finished-at="2023-07-05T11:30:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method signature="modifyUser()[pri:0, instance:com.sgtesting.users.Users@c333c60]" started-at="2023-07-05T11:30:06 IST" name="modifyUser" finished-at="2023-07-05T11:30:06 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sgtesting.users.Users@c333c60]" started-at="2023-07-05T11:30:06 IST" name="tearDown" finished-at="2023-07-05T11:30:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sgtesting.users.Users -->
+      <class name="com.sgtesting.products.product">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sgtesting.products.product@2bfc268b]" started-at="2023-07-05T11:30:06 IST" name="setUp" finished-at="2023-07-05T11:30:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createproduct()[pri:0, instance:com.sgtesting.products.product@2bfc268b]" started-at="2023-07-05T11:30:06 IST" name="createproduct" finished-at="2023-07-05T11:30:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createproduct -->
+        <test-method signature="deleteproduct()[pri:0, instance:com.sgtesting.products.product@2bfc268b]" started-at="2023-07-05T11:30:06 IST" name="deleteproduct" finished-at="2023-07-05T11:30:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteproduct -->
+        <test-method signature="modifyproduct()[pri:0, instance:com.sgtesting.products.product@2bfc268b]" started-at="2023-07-05T11:30:06 IST" name="modifyproduct" finished-at="2023-07-05T11:30:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyproduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sgtesting.products.product@2bfc268b]" started-at="2023-07-05T11:30:06 IST" name="tearDown" finished-at="2023-07-05T11:30:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sgtesting.products.product -->
+    </test> <!-- Users and product -->
+  </suite> <!-- Testcases -->
+</testng-results>
