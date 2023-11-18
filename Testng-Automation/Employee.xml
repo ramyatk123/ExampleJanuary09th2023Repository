@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+<employee id="7900">
+<firstname>Akshara</firstname>
+<job>Manager</job>
+<city>Bangalore</city>
+<state>Karnataka</state>
+</employee>
+
+<employee id="1234">
+<firstname>Ramya</firstname>
+<job>Analyst</job>
+<city>Tumkur</city>
+<state>California</state>
+</employee>
+
+<employee id="7979">
+<firstname>Gowda</firstname>
+<job>Vice President</job>
+<city>Vijaynagar</city>
+<state>Telangana</state>
+</employee>
+</employees>
